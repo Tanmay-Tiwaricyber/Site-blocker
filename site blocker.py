@@ -29,3 +29,5 @@ while True:
                // do nothing otherwise
            file.truncate() // this line is used to delete the trailing lines (that contain DNS)
     time.sleep(5)
+
+#    Made with ❤️ By Silent Programmer
